@@ -1,0 +1,4 @@
+Temperature: 22.0°C
+Humidity: 44.0%
+Heart Rate: 0 BPMN
+SPO2: 0%
